@@ -2,7 +2,7 @@
 
 Hey fellow Linux users. Have you ever had these words or similar words come out of your fingers? Or seen them come out of other's fingers? 
 
-Have you ever seen the famous Sealion meme?
+Have you ever seen the famous [Sealion](https://en.wikipedia.org/wiki/Sealioning) meme?
 
 ![Sealion Meme](https://raw.githubusercontent.com/unstilljess/uselinuxinstead/refs/heads/main/The_Terrible_Sealion.png)
 
