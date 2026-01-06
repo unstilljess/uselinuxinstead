@@ -4,7 +4,7 @@ Hey fellow Linux users. Have you ever had these words or similar words come out 
 
 Have you ever seen the famous Sealion meme?
 
-![Sealion Meme](https://github.com/unstilljess/uselinuxinstead/blob/main/TheTerrible_Sealion.png?raw=true)
+![Sealion Meme](https://raw.githubusercontent.com/unstilljess/uselinuxinstead/refs/heads/main/The_Terrible_Sealion.png)
 
 (Source [https://en.wikipedia.org/wiki/Sealioning#/media/File:%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_(19_September_2014).png)](https://en.wikipedia.org/wiki/Sealioning#/media/File:%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_(19_September_2014).png))
 
