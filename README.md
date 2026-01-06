@@ -39,7 +39,7 @@ Have you even begun to explore their use cases? Their hardeware? Software requir
 - But also
     - Do they need locally installed MS Office or other corporate software
     - What games (if any) do they play
-    - Accessability support
+    - Accessibility support
     - Nvidia drivers still kinda suck...
     - Do they know people who can support Linux with them (No, not just "ask in the Discord"...)
 
