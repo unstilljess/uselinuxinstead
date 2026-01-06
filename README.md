@@ -4,7 +4,9 @@ Hey fellow Linux users. Have you ever had these words or similar words come out 
 
 Have you ever seen the famous Sealion meme?
 
-https://en.wikipedia.org/wiki/Sealioning#/media/File:%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_(19_September_2014).png
+![Sealion Meme](https://github.com/unstilljess/uselinuxinstead/blob/main/TheTerrible_Sealion.png?raw=true)
+
+(Source [https://en.wikipedia.org/wiki/Sealioning#/media/File:%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_(19_September_2014).png)](https://en.wikipedia.org/wiki/Sealioning#/media/File:%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_(19_September_2014).png))
 
 The fact that someone pointed you here means you probably crossed someone's line from "being helpful" to "being obnoxious". You've become that sealion.
 
@@ -45,15 +47,15 @@ Have you even begun to explore their use cases? Their hardeware? Software requir
 
 **Maybe they just need to stay on Windows**
 
-I recommend every new Windows machine to run https://github.com/Raphire/Win11Debloat . It's a one line powershell script that cleans up the worst bits of Windows. The ads, the nags, the Copilot, etc. It honestly solves a whole lot of the complaints people have. Rerun it after every major update - MS will silently turn stuff on again, but it works for Most things.
+I recommend every new Windows machine to run [https://github.com/Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) . It's a one line powershell script that cleans up the worst bits of Windows. The ads, the nags, the Copilot, etc. It honestly solves a whole lot of the complaints people have. Rerun it after every major update - MS will silently turn stuff on again, but it works for Most things.
 
 **How to pick a Linux distro**
 
-There's various "distro pickers" out there like https://distrochooser.de/ - but leave yourself open to helping explain the answers. Some of them might be a bit confusing. If possible, let them try out a "Live CD" for a bit before settling. Changing to Linux is a big leap.
+There's various "distro pickers" out there like [https://distrochooser.de/](https://distrochooser.de/) - but leave yourself open to helping explain the answers. Some of them might be a bit confusing. If possible, let them try out a "Live CD" for a bit before settling. Changing to Linux is a big leap.
 
 **Use Open Source software even on Windows**
 
-Even if they stay on Windows, there's lots of great app store style stuff they can use to debloat and point towards FOSS. Install https://docs.chocolatey.org/en-us/chocolatey-gui/ for them and teach them how to use it. Recommend LibreOffice. Whatever - give them a good experience with the FOSS way of doing things, and they'll be interested in learning more next time.
+Even if they stay on Windows, there's lots of great app store style stuff they can use to debloat and point towards FOSS. Install [https://docs.chocolatey.org/en-us/chocolatey-gui/](https://docs.chocolatey.org/en-us/chocolatey-gui/) for them and teach them how to use it. Recommend LibreOffice. Whatever - give them a good experience with the FOSS way of doing things, and they'll be interested in learning more next time.
 
 **Make the User Happy**
 
