@@ -6,7 +6,7 @@ Have you ever seen the famous [Sealion](https://en.wikipedia.org/wiki/Sealioning
 
 ![Sealion Meme](https://raw.githubusercontent.com/unstilljess/uselinuxinstead/refs/heads/main/The_Terrible_Sealion.png)
 
-(Source [Wikipedia](https://en.wikipedia.org/wiki/Sealioning#/media/File:%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_(19_September_2014).png))
+(Source [Wikipedia](https://en.wikipedia.org/wiki/Sealioning#/media/File:%22The_Terrible_Sea_Lion%22._Wondermark_comic_strip_No._1062_by_David_Malki_(19_September_2014).png)) [original](https://wondermark.com/c/1062/)
 
 The fact that someone pointed you here means you probably crossed someone's line from "being helpful" to "being obnoxious". You've become that sealion.
 
