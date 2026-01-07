@@ -26,7 +26,7 @@ Sure it is. So What? We all hate LOTS of corp products we're forced to use every
 
 There's that "Just" word again.
 
-Have you even begun to explore their use cases? Their hardeware? Software requirements? Technical capabilities? Ability to type even simple commands in the command line? Are they disabled? Are they a gamer? Do they share their computer with others with different needs? Do they need it for school or work?
+Have you even begun to explore their use cases? Their hardware? Software requirements? Technical capabilities? Ability to type even simple commands in the command line? Are they disabled? Are they a gamer? Do they share their computer with others with different needs? Do they need it for school or work?
 
 **Person hates Windows, What Do? Checklist**
 
