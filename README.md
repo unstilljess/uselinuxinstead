@@ -47,7 +47,7 @@ Have you even begun to explore their use cases? Their hardware? Software require
 
 **Maybe they just need to stay on Windows**
 
-I recommend every new Windows machine to run [https://github.com/Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) . It's a one line powershell script that cleans up the worst bits of Windows. The ads, the nags, the Copilot, etc. It honestly solves a whole lot of the complaints people have. Rerun it after every major update - MS will silently turn stuff on again, but it works for Most things.
+I recommend every new Windows machine to run [https://github.com/Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) . It's a one line powershell command that cleans up the worst bits of Windows. The ads, the nags, Copilot, telemetry, etc. It honestly solves a whole lot of the complaints people have. Rerun it after every major update since MS will silently turn stuff on again, but it works for Most things.
 
 **How to pick a Linux distro**
 
